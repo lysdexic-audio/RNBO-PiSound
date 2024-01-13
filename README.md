@@ -1,5 +1,5 @@
 # RNBO-PiSound
-Useful stuff for using PiSound with RNBO.
+Useful stuff for using the [Blocks PiSound](https://blokas.io/pisound/) with RNBO.
 
 ## Dependencies
 These scripts depend on `liblo` to communicate with RNBO via OSC inside shell scripts
