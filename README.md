@@ -1,4 +1,4 @@
-# Pisound
+# RNBO-PiSound
 Useful stuff for using PiSound with RNBO.
 
 ## Dependencies
