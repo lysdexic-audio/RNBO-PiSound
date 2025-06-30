@@ -7,7 +7,7 @@ These scripts depend on `liblo` to communicate with RNBO via OSC inside shell sc
 1. run `pisound_rnbo_install.sh` to install deps
 
 ## RNBO Button Remapper
-Patcher examples and sripts to let you map the button to whatever you want in your RNBO patcher
+Patcher examples and scripts to let you map the button to whatever you want in your RNBO patcher
 
 ![Pisound_Button_Example](./Pisound_Button_Example.png) 
 
